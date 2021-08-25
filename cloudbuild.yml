@@ -9,3 +9,4 @@ steps:
   - --source=.
   - --trigger-http
   - --runtime=nodejs14
+  - --entry-point=helloWorld
